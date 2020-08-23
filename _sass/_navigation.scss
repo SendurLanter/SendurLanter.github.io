@@ -92,12 +92,12 @@
       }
 
       &.current {
-        color: #40e583;
+        color: #fff;
         background: $primary-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: mix(#fff, #40e583, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,7 +131,7 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
+    color: mix(#fff, #40e583, 50%);
     border: 1px solid $light-gray;
     border-radius: $border-radius;
 
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: mix(#fff, #40e583, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
