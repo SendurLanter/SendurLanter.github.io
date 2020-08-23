@@ -258,7 +258,7 @@
     border: 1px solid $border-color;
     border-radius: $border-radius;
     background: #fff;
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 0 10px rgba(#40e583, 0.25);
 
     a {
       margin: 0;
@@ -405,7 +405,7 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
+      color: #40e583;
       background: $lighter-gray;
     }
   }
