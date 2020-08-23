@@ -164,7 +164,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid #40e583;
 }
 
 
@@ -181,11 +181,11 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #40e583;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #40e583;
     }
   }
 
@@ -255,7 +255,7 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: 1px solid #40e583;
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -266,7 +266,7 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        color: #40e583;
         background: mix(#fff, #40e583, 75%);
       }
     }
@@ -279,7 +279,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      border-color: #40e583 transparent;
       display: block;
       z-index: 0;
     }
@@ -299,7 +299,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid #40e583;
 
       &:last-child {
         border-bottom: none;
@@ -361,7 +361,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid #40e583;
 }
 
 
