@@ -1,16 +1,6 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+1. Y. Chiang, Y. Chao, **C. Hsu**, C. Chou and H. Wei, "Virtual Network Embedding With Dynamic Speed Switching Orchestration in Edge Network," in IEEE Access, vol. 8, pp. 84753-84768, 2020. [[PDF](http://SendurLanter.github.io/files/Access.pdf)]
