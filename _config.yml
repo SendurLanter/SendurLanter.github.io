@@ -73,9 +73,8 @@ analytics:
 # Site Author
 author:
   name             : "Chih-ho Hsu"
-  avatar           : "profile.png"
-  bio              : "National Taiwan University Dept. of Electrical Engineering,
-  Wireless and Mobile Networking Lab.,"
+  avatar           : "profile2.png"
+  bio              : "National Taiwan University, Wireless and Mobile Networking Lab.,"
   location         : "New Taipei City, Taiwan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
