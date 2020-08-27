@@ -1,6 +1,6 @@
 ---
-title: "CSQCA"
-excerpt: "description <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="400" height="300" align=right>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
