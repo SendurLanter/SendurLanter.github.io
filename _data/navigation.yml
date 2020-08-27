@@ -1,6 +1,6 @@
 main:
   - title: "Projects"
-    url: /talks/
+    url: /portfolio/
 
   - title: "Publications"
     url: /publications/   
@@ -9,7 +9,7 @@ main:
   #  url: /teaching/    
     
   #- title: "Portfolio"
-  #  url: /portfolio/
+  #  url: /talks/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
