@@ -1,7 +1,7 @@
 ---
 title: "CSQCA"
 collection: portfolio
-excerpt: "Description <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="400" height="300" align=right>"
+excerpt: '<img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=right> Description Description Description Description Description Description Description '
 ---
 
 Description
