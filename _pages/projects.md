@@ -2,7 +2,7 @@
 title: "Test"
 collection: talks
 type: "Talk"
-permalink: /projects
+permalink: /projects/projects
 venue: "UC San Francisco, Department of Testing"
 date: 2012-03-01
 location: "San Francisco, California"
