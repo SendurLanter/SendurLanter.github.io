@@ -1,22 +1,21 @@
 main:
-
   - title: "Projects"
-    url: /projects/
+    url: /talks/
 
   - title: "Publications"
     url: /publications/   
 
-  - title: "CV"
-    url: /cv/
-
   #- title: "Teaching"
   #  url: /teaching/    
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-
-  #- title: "Projects"
-  #  url: /talks/
-
+    
+  - title: "CV"
+    url: /cv/
+    
   #- title: "Guide"
   #  url: /markdown/
