@@ -16,7 +16,7 @@ In this work, I mathematically formulated the information dissemination process 
 
 <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
-In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All the data are collected in real-world trace [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
+In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All the data are collected in real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
@@ -44,7 +44,7 @@ In this work, I enhanced QoE and bandwidth utilization of 360◦ video streaming
 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
 
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in real-world trace[Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
