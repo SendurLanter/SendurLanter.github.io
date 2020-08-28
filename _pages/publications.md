@@ -11,7 +11,7 @@ Journal Papers:
 
 3. 3st author, "Management and Orchestration of Edge Computing: A survey", under preparation.
 
-4. "Hybrid Adaptive Learning Framework for Parallel Task Offloading in Edge network", under preparation.
+4. 1st author, "Hybrid Adaptive Learning Framework for Parallel Task Offloading in Edge network", under preparation.
 
 Conference Papers:
 ======
