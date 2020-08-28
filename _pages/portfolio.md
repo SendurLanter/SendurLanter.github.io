@@ -22,7 +22,7 @@ In the figure, the black line means the message exchange between users and the g
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
-> Tag: Dependant task scheduling, RL, Genetic algorithm
+##### Tag: Dependant task scheduling, RL, Genetic algorithm
 
 *Course project in "Introduction to Electronic Design Automation"*
 
