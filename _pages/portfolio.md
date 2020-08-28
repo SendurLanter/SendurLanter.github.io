@@ -10,37 +10,39 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory"*
 
-In this work, I mathematically formulated the information dissemination process through interaction on social media in the community. Then, I proposed a heuristic algorithm that embeds social information and dissemination state in the caching decision with an aim to optimize users' QoE.
+In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I proposed a heuristic algorithm that utilize social information and dissemination state in the community to determine caching decision with an aim to optimize users' QoE.
 
 Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
-[Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) 
-
-In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video.
-
-<br/><br/><br/>
+In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
-##### Tag: Dependant task scheduling, RL, Genetic algorithm
+<font color=green>Tag: Dependant task scheduling, RL, Genetic algorithm</font>
 
 *Course project in "Introduction to Electronic Design Automation"*
 
-In this work, I studied and compared state-of-the-art researches in Resource-constrained scheduling algorithms for dependent tasks that aims to minimize total completion time, including Deep Reinforcement Learning and genetic algorithms.
+In this work, I studied and compared state-of-the-art researches in Resource-constrained scheduling algorithms, which aims to minimize total completion time of dependant tasks.
 
-Demo of key concept: <br/> <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
+Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
+
+The figure shows scheduling decision of Deep Reinforcement Learning method. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
 ------
-**Tag: Adaptive 360◦ video streaming, Viewport prediction, VR, Edge computing**
+<font color=green>Tag: Adaptive 360◦ video streaming, Viewport prediction, VR, Edge computing</font>
 
 *Side project*
 
-Demo: Enhance QoE and bandwidth utilization through predicting Field of View (FoV) of the user <br/> <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+In this work, I enhance QoE and bandwidth utilization of 360◦ video streaming service through predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
+
+Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
-**Tag: D2D communication, Caching, Heterogeneous network**
+<font color=green>Tag: D2D communication, Caching, Heterogeneous network</font>
 
 *Course project in "Introduction to Wireless and Mobile Networking"*
 
@@ -48,7 +50,7 @@ Demo: <br/> <img src="http://SendurLanter.github.io/files/demo.gif"  width="300"
 
 Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
-**Tag: Adaptive video streaming, Caching, Edge computing, collaborative filtering**
+<font color=green>Tag: Adaptive video streaming, Caching, Edge computing, collaborative filtering</font>
 
 *Research work in "Wireless and Mobile Networking Laboratory"*
 
