@@ -10,7 +10,7 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory"*
 
-In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I proposed a heuristic algorithm that utilize social information and dissemination state in the community to determine caching decision with an aim to optimize users' QoE.
+In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I proposed a heuristic algorithm that utilize social information and dissemination state in the community to determine collaborative caching decision among edge servers with an aim to optimize users' QoE.
 
 Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
@@ -22,7 +22,7 @@ FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling A
 
 *Course project in "Introduction to Electronic Design Automation"*
 
-In this work, I studied and compared state-of-the-art researches in Resource-constrained scheduling algorithms, which aims to minimize total completion time of dependant tasks.
+In this work, I studied and compared state-of-the-art researches in resource-constrained scheduling algorithms, which aims to minimize total completion time of dependant tasks.
 
 Demo of key concept:
 
@@ -36,9 +36,11 @@ MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
 
 *Side project*
 
-In this work, I enhance QoE and bandwidth utilization of 360◦ video streaming service through predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
+In this work, I enhanced QoE and bandwidth utilization of 360◦ video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
 
-Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
@@ -46,7 +48,11 @@ Analysis of D2D caching schemes in Heterogeneous Network
 
 *Course project in "Introduction to Wireless and Mobile Networking"*
 
-Demo: <br/> <img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
+In this work, by modeling intereference incurring by BS2D, D2D communication and the corresponding wireless channels, I implement the simulation for different D2D caching schemes where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
+
+Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
 
 Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
