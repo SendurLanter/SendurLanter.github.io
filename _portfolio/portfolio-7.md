@@ -1,11 +1,18 @@
 ---
-title: "Collaborative Social-Aware Video Caching in Edge Network"
+title: "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality"
 collection: portfolio
 type: "Undergraduate course"
 venue: "University 1, Department"
-excerpt: 'Demo: information dissemination process through interaction on social media in the community. <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>'
+excerpt: ' '
 ---
+### Abstract:
 
-<img src="http://SendurLanter.github.io/files/MFQAS.png"  width="300" height="225" align=center>
+Virtual reality (VR) has been envisioned as the killer-application in the 5G mobile networks. Among numerous VR services, 360◦ video streaming is the most promising one. Nevertheless, its wide adoption is hindered by large latency incurred in cloud-based video delivery and insufficient bandwidth resource in Radio Access Network (RAN). Fortunately, the emergence of Multi-access Edge Computing (MEC) become an enabler to fulfill the potential of VR by providing caching and computing resources at network edges. Also, since a user can view only a part of the entire 360◦ video frame due to the limitation of eye vision, user’s Quality of Experience (QoE) can be further enhanced if we can predict his Field of View (FoV). In this paper, we propose a novel MEC-assisted FoV-aware and QoEdriven Adaptive Streaming (MFQAS) scheme for 360◦ videos. Specifically, we first provide a comprehensive QoE model for 360◦ video streaming. Second, we adopt AutoRegression Moving Average (ARMA) model in FoV prediction. Finally, we propose a heuristic algorithm to optimize the caching and computing decision at MEC server based on predicted FoV so that user’s QoE can be enhanced. The simulation results show that our proposed method can provide much better prediction accuracy and QoE compared with baseline algorithms.
 
-<img src="http://SendurLanter.github.io/files/360.png"  width="300" height="225" align=center>
+### System model:
+
+<img src="http://SendurLanter.github.io/files/MFQAS.png"  width="600" height="400" align=center>
+
+### Example of predicted FoV and resolution decision in the designed system:
+
+<img src="http://SendurLanter.github.io/files/360.png"  width="600" height="400" align=center>
