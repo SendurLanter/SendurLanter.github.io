@@ -64,7 +64,7 @@ Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
-In this work, I proposed a partial video caching scheme 
+In this work, I proposed an interest-based partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In this way, users' QoE can be further improved.
 
 Demo: <br/> <img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center>  <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
 
