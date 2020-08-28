@@ -58,7 +58,7 @@ In this work, by modeling intereference incurring by BS2D, D2D communication and
 
 <img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center>
 
-The red/blue lines represent BS2D and D2D transmission respectively. Also, the flash green point denote a content request, obeying the poisson process. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
+The red/blue lines represent BS2D and D2D transmission respectively. Also, the flash green point denote a content request, obeying the poisson process. <br/><br/><br/><br/>
 
 Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
@@ -85,6 +85,9 @@ Traffic simulator for Public Transportation System of Taipei
 Mobile game
 ------
 *Side project, 2015*
+
+This is a imitation of Tower of Saviors, which is a popular mobile game when I was in high school. I build a simple .apk file for my android smart phone.
+
 ###### Demo: 
 
 <img src="http://SendurLanter.github.io/files/got.gif" width="150" height="375" align=center> <br/> <br/><br/><br/><br/>
