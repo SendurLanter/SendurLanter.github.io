@@ -8,6 +8,8 @@ Collaborative Social-Aware Video Caching in Edge Network
 ------
 <font color=#40e583> Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network </font>
 
+<font color=gray size=5>color=gray</font>
+
 *Research work in "Wireless and Mobile Networking Laboratory"*
 
 In this work, I mathematically formulated the information dissemination process through interaction on social media in the community. Then, I proposed a heuristic algorithm that embeds social information and dissemination state in the caching decision with an aim to optimize users' QoE.
