@@ -48,11 +48,13 @@ Analysis of D2D caching schemes in Heterogeneous Network
 
 *Course project in "Introduction to Wireless and Mobile Networking"*
 
-In this work, by modeling intereference incurring by BS2D, D2D communication and the corresponding wireless channels, I implement the simulation for different D2D caching schemes where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
+In this work, by modeling intereference incurring by BS2D, D2D communication and the corresponding wireless channels , I implement the simulation for different D2D caching schemes with user mobility where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
 
 Demo of key concept:
 
-<img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
+<img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center>
+
+The red/blue lines represent BS2D and D2D transmission respectively. Also, the flash green point denote a content request, obeying the poisson process. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
 
 Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
