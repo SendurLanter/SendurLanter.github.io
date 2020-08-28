@@ -18,7 +18,7 @@ Demo: <br/> <img src="http://SendurLanter.github.io/files/demo.gif"  width="300"
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling
 ------
-Demo: Resource-constrained scheduling by Reinforcement learning <br/> <img src="http://SendurLanter.github.io/files/HLS.png"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
+Demo: Resource-constrained scheduling by Reinforcement learning <br/> <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
 
 Traffic simulator for Public Transportation System of Taipei
 ------
