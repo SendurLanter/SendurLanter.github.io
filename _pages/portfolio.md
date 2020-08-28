@@ -6,9 +6,7 @@ author_profile: false
 
 Collaborative Social-Aware Video Caching in Edge Network
 ------
-<font color=#40e583> Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network </font>
-
-<font color=gray size=5>color=gray</font>
+<font color=#40e583 size=5>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
 
 *Research work in "Wireless and Mobile Networking Laboratory"*
 
