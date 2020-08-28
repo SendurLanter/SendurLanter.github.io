@@ -2,8 +2,14 @@ main:
   - title: "Research & Projects"
     url: /portfolio/
 
+  - title: "Work Experiences"
+    url: /experiences/
+
   - title: "Publications"
-    url: /publications/   
+    url: /publications/
+
+  - title: "Curriculum Vitae"
+    url: /cv/
 
   #- title: "Teaching"
   #  url: /teaching/    
@@ -13,9 +19,6 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
