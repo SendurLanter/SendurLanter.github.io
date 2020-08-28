@@ -16,7 +16,7 @@ In this work, I mathematically formulated the information dissemination process 
 
 <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
-In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
+In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All the data are collected in real-world trace [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
@@ -68,7 +68,11 @@ Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 
 In this work, I proposed an interest-based partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In this way, users' QoE can be further improved.
 
-Demo: <br/> <img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center>  <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
+Performance Demo:
+
+<img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center>
+
+The experiment are based on datasets that collected in UMass campus. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
 
 Traffic simulator for Public Transportation System of Taipei
 ------
