@@ -8,11 +8,11 @@ Collaborative Social-Aware Video Caching in Edge Network
 ------
 <font color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
 
-*Research work in "Wireless and Mobile Networking Laboratory"*
+*Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
 In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I proposed a heuristic algorithm that utilize social information and dissemination state in the community to determine collaborative caching decision among edge servers with an aim to optimize users' QoE.
 
-Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
+######Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
 In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
 
@@ -20,7 +20,7 @@ FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling A
 ------
 <font color=green>Tag: Dependant task scheduling, RL, Genetic algorithm</font>
 
-*Course project in "Introduction to Electronic Design Automation"*
+*Course project in "Introduction to Electronic Design Automation", 2020*
 
 In this work, I studied and compared state-of-the-art researches in resource-constrained scheduling algorithms, which aims to minimize total completion time of dependant tasks.
 
@@ -34,19 +34,21 @@ MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
 ------
 <font color=green>Tag: Adaptive 360◦ video streaming, Viewport prediction, VR, Edge computing</font>
 
-*Side project*
+*Side project, 2020*
 
 In this work, I enhanced QoE and bandwidth utilization of 360◦ video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
 
 Demo of key concept:
 
-<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
+
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in real-world trace[Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
 <font color=green>Tag: D2D communication, Caching, Heterogeneous network</font>
 
-*Course project in "Introduction to Wireless and Mobile Networking"*
+*Course project in "Introduction to Wireless and Mobile Networking", 2020*
 
 In this work, by modeling intereference incurring by BS2D, D2D communication and the corresponding wireless channels , I implement the simulation for different D2D caching schemes with user mobility where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
 
@@ -60,16 +62,19 @@ Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
 <font color=green>Tag: Adaptive video streaming, Caching, Edge computing, collaborative filtering</font>
 
-*Research work in "Wireless and Mobile Networking Laboratory"*
+*Research work in "Wireless and Mobile Networking Laboratory", 2019*
+
+In this work, I proposed a partial video caching scheme 
 
 Demo: <br/> <img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center>  <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
 
 Traffic simulator for Public Transportation System of Taipei
 ------
-*Side project*
+*Side project, 2017*
+
 Demo: <br/> <img src="http://SendurLanter.github.io/files/MRT.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-5/) <br/><br/><br/><br/>
 
 Mobile game
 ------
-*Side project*
+*Side project, 2015*
 Demo: <br/> <img src="http://SendurLanter.github.io/files/got.gif" width="150" height="375" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-6/) <br/><br/><br/><br/>
