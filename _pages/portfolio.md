@@ -10,7 +10,7 @@ Demo: information dissemination process through interaction on social media in t
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
-Demo: Resource-constrained scheduling for dependent tasks by Reinforcement Learning, aiming to minimize completion time<br/> <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
+Demo: Resource-constrained scheduling for dependent tasks by Reinforcement Learning, aiming to minimize total completion time<br/> <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
 ------

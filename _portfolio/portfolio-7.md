@@ -7,3 +7,5 @@ excerpt: 'Demo: information dissemination process through interaction on social 
 ---
 
 <img src="http://SendurLanter.github.io/files/MFQAS.png"  width="300" height="225" align=center>
+
+<img src="http://SendurLanter.github.io/files/360.png"  width="300" height="225" align=center>
