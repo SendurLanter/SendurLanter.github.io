@@ -5,7 +5,7 @@ permalink: /experiences/
 
 Foxconn:
 ======
-*Internship, Oct. 2018 – Oct. 2019*
+*Internship, Sep. 2018 – Jul. 2019*
 <img src="http://SendurLanter.github.io/files/Foxconn.png"  width="800" height="600" align=center> <br/>
 
 <img src="http://SendurLanter.github.io/files/ONAP.png"  width="600" height="300" align=center> <br/>

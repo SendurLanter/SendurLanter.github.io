@@ -10,11 +10,11 @@ redirect_from:
 
 Welcome!
 ======
-I am Chih-Ho Hsu (許智和), currently pursuing the B.S. degree in electrical engineering with National Taiwan University (NTU) while serving research assistant in Wireless and Mobile Networking Laboratory under the instruction of Prof. Hung-Yu Wei.
+My name is Chih-Ho Hsu (許智和). Currently, I'm pursuing the B.S. degree in Electrical Engineering with National Taiwan University (NTU) while serving research assistant in Wireless and Mobile Networking Laboratory under the instruction of Prof. Hung-Yu Wei.
 
-My research interests span Wireless communication and networking, Social network, Edge/Fog computing, Multimedia streaming and Virtual reality. You may click my [google scholar](https://scholar.google.com.tw/citations?user=&user=cUyugJAAAAAJ) page or [Publication](https://sendurlanter.github.io/publications/) to know more about my research work. To see more detail of my works, please refer to [Research & Projects](https://sendurlanter.github.io/portfolio/).
+My research interests include related issues in Wireless communication and networking: Resource allocation and management, Social network, Edge/Fog computing, Multimedia streaming and Virtual reality. You may click my [google scholar](https://scholar.google.com.tw/citations?user=&user=cUyugJAAAAAJ) page, [Publication list](https://sendurlanter.github.io/publications/) or [Research & Projects list](https://sendurlanter.github.io/portfolio/) to know more about my research work.
 
 About me
 ======
 
-The comprehensive of is presented in [my CV](https://sendurlanter.github.io/cv/)
+To see more comprehensive details of my experiences, please refer to [my CV](https://sendurlanter.github.io/cv/)
