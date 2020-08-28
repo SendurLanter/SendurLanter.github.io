@@ -12,7 +12,9 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I proposed a heuristic algorithm that utilize social information and dissemination state in the community to determine collaborative caching decision among edge servers with an aim to optimize users' QoE.
 
-######Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
+######Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
 In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
 
@@ -24,7 +26,7 @@ FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling A
 
 In this work, I studied and compared state-of-the-art researches in resource-constrained scheduling algorithms, which aims to minimize total completion time of dependant tasks.
 
-Demo of key concept:
+######Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
 
