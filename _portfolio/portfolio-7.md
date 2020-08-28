@@ -11,8 +11,14 @@ Virtual reality (VR) has been envisioned as the killer-application in the 5G mob
 
 ## System model:
 
+
+
 <img src="http://SendurLanter.github.io/files/MFQAS.png"  width="600" height="400" align=center>
 
+
+
 ## Example of predicted FoV and resolution decision in the designed system:
+
+
 
 <img src="http://SendurLanter.github.io/files/360.png"  width="600" height="400" align=center>

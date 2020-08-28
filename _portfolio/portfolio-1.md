@@ -11,7 +11,10 @@ With the emerging demand for high-definition videos in recent years, Multi-acces
 
 ## System model:
 
+
+
 <img src="http://SendurLanter.github.io/files/CSQCA.png"  width="600" height="400" align=center>
+
 
 [Full PDF](http://SendurLanter.github.io/files/CSQCA.pdf)
 

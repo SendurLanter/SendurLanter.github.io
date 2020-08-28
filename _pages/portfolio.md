@@ -80,11 +80,11 @@ Traffic simulator for Public Transportation System of Taipei
 
 ###### Demo: 
 
-<img src="http://SendurLanter.github.io/files/MRT.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-5/) <br/><br/><br/><br/>
+<img src="http://SendurLanter.github.io/files/MRT.gif"  width="300" height="225" align=center> <br/> <br/><br/><br/><br/>
 
 Mobile game
 ------
 *Side project, 2015*
 ###### Demo: 
 
-<img src="http://SendurLanter.github.io/files/got.gif" width="150" height="375" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-6/) <br/><br/><br/><br/>
+<img src="http://SendurLanter.github.io/files/got.gif" width="150" height="375" align=center> <br/> <br/><br/><br/><br/>

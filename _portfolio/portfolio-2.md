@@ -20,4 +20,5 @@ High-level synthesis (HLS) mainly consists of three parts, inclusive of allocati
 ## Performance
 
 <img src="http://SendurLanter.github.io/files/Resource_mul.jpg" width="300" height="225">
+<img src="http://SendurLanter.github.io/files/milti_mat.jpg" width="300" height="225">
 <img src="http://SendurLanter.github.io/files/Runtime_inv.jpg" width="300" height="225">
