@@ -6,13 +6,19 @@ author_profile: false
 
 Collaborative Social-Aware Video Caching in Edge Network
 ------
-> Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network
+<font color=#40e583> *Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network* </font>
 
 >Research work in "Wireless and Mobile Networking Laboratory"
 
-In this work, I information dissemination process through interaction on social media in the community.
+In this work, I mathematically formulated the information dissemination process through interaction on social media in the community. Then, I proposed a heuristic algorithm that embeds social information and dissemination state in the caching decision with an aim to optimize users' QoE.
 
-Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
+Demo of key concept:  <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
+
+[Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) 
+
+In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video.
+
+<br/><br/><br/>
 
 FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
@@ -20,7 +26,7 @@ FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling A
 
 *Course project in "Introduction to Electronic Design Automation"*
 
-Resource-constrained scheduling for dependent tasks by Reinforcement Learning, aiming to minimize total completion time
+In this work, I studied and compared state-of-the-art researches in Resource-constrained scheduling algorithms for dependent tasks that aims to minimize total completion time, including Deep Reinforcement Learning and genetic algorithms.
 
 Demo of key concept: <br/> <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
 
