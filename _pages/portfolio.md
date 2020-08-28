@@ -8,9 +8,13 @@ Collaborative Social-Aware Video Caching in Edge Network
 ------
 Demo: information dissemination process through interaction on social media in the community. <br/> <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
 
-FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling
+FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling Algorithms
 ------
 Demo: Resource-constrained scheduling for dependent tasks by Reinforcement Learning, aiming to minimize completion time<br/> <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
+
+MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
+------
+Demo: Enhance QoE and bandwidth utilization through predicting Field of View (FoV) of the user <br/> <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> <br/> [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
