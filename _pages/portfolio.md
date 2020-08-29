@@ -12,7 +12,7 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I proposed a heuristic algorithm that utilize social information and dissemination state in the community to determine collaborative caching decision among edge servers with an aim to optimize users' QoE.
 
-##### Demo of key concept:
+#### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
@@ -26,7 +26,7 @@ FPGA High Level Synthesis: A Survey and Implementation on Operation Scheduling A
 
 In this work, I studied and compared state-of-the-art researches in resource-constrained scheduling algorithms, which aims to minimize total completion time of dependant tasks.
 
-##### Demo of key concept:
+#### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
 
@@ -40,7 +40,7 @@ MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
 
 In this work, I enhanced QoE and bandwidth utilization of 360◦ video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
 
-##### Demo of key concept:
+#### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
 
@@ -54,7 +54,7 @@ Analysis of D2D caching schemes in Heterogeneous Network
 
 In this work, by modeling intereference incurring by BS2D, D2D communication and the corresponding wireless channels , I implement the simulation for different D2D caching schemes with user mobility where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
 
-##### Demo of key concept:
+#### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center>
 
@@ -68,7 +68,7 @@ Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 
 In this work, I proposed an interest-based partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In this way, users' QoE can be further improved.
 
-##### Performance Demo:
+#### Performance Demo:
 
 <img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center>
 
@@ -78,7 +78,7 @@ Traffic simulator for Public Transportation System of Taipei
 ------
 *Side project, 2017*
 
-##### Demo: 
+#### Demo: 
 
 <img src="http://SendurLanter.github.io/files/MRT.gif"  width="300" height="225" align=center> <br/> <br/><br/><br/><br/>
 
@@ -88,6 +88,6 @@ Mobile game
 
 This is a imitation of Tower of Saviors, which is a popular mobile game when I was in high school. I build a simple .apk file for my android smart phone.
 
-##### Demo: 
+#### Demo: 
 
 <img src="http://SendurLanter.github.io/files/got.gif" width="150" height="375" align=center> <br/> <br/><br/><br/><br/>

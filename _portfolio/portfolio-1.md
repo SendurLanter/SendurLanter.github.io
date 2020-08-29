@@ -20,14 +20,14 @@ With the emerging demand for high-definition videos in recent years, Multi-acces
 
 
 
-<img src="http://SendurLanter.github.io/files/Diss.png"  width="400" height="300" align=center>
+<img src="http://SendurLanter.github.io/files/Diss.png"  width="600" height="400" align=center>
 
 
 ## QoE model:
 
 
 
-<img src="http://SendurLanter.github.io/files/QoE.png"  width="400" height="300" align=center>
+<img src="http://SendurLanter.github.io/files/QoE.png"  width="500" height="375" align=center>
 
 
 [Full PDF](http://SendurLanter.github.io/files/CSQCA.pdf)
