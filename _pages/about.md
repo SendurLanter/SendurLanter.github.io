@@ -16,4 +16,4 @@ My research interests include related issues in wireless communication and netwo
 
 About me
 ======
-As you may notice from the website, I like green. I was an intern at Foxconn Technology during *Sep. 2018 to Jul. 2019*. Meanwhile, I serve as part-time software engineer at a BroadMission Technology from *Jan. 2019 to Jul. 2019*. Since then, I have devoted myself to the field of wireless networking. To see more comprehensive details of my experiences, please refer to [my CV](https://sendurlanter.github.io/CV/)
+As you may notice from the website, I like green. I was an intern at Foxconn Technology during *Sep. 2018 to Jul. 2019*. Meanwhile, I serve as part-time software engineer at a BroadMission Technology from *Jan. 2019 to Jul. 2019*. Since then, I have devoted myself to the field of wireless networking. To see more comprehensive details of my experiences, please refer to [my CV](https://sendurlanter.github.io/cv/)
