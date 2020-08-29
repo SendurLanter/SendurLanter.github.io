@@ -15,9 +15,9 @@ Journal Papers:
 
 Conference Papers:
 ======
-1. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based QoS Routing for Software-Defined Edge Network," in IEEE Globecom, vol. 8, pp. 84753-84768, 2020. [[PDF](http://SendurLanter.github.io/files/EQLBR.pdf)]
+1. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based QoS Routing for Software-Defined Edge Network," in IEEE Globecom, 2020. [[PDF](http://SendurLanter.github.io/files/EQLBR.pdf)]
 
-2. Y. Chao, , **C. Hsu**, Y. Chiang, C. Chou and H. Wei, "Satellite-UAV-MEC Collaborative Architecture for Task Offloading in Vehicular Networks," in IEEE Globecom, 2020.
+2. Y. Chao, **C. Hsu**, Y. Chiang, C. Chou and H. Wei, "Satellite-UAV-MEC Collaborative Architecture for Task Offloading in Vehicular Networks," in IEEE Globecom, 2020.
 
 3. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality".
 
