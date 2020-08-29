@@ -30,7 +30,7 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
 
-The figure shows scheduling decision of Deep Reinforcement Learning method. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
+The figure shows scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished task respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
 ------

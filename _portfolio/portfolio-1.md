@@ -16,6 +16,20 @@ With the emerging demand for high-definition videos in recent years, Multi-acces
 <img src="http://SendurLanter.github.io/files/CSQCA.png"  width="600" height="400" align=center>
 
 
+## Example of video dissemination process in a community:
+
+
+
+<img src="http://SendurLanter.github.io/files/Diss.png"  width="400" height="300" align=center>
+
+
+## QoE model:
+
+
+
+<img src="http://SendurLanter.github.io/files/QoE.png"  width="400" height="300" align=center>
+
+
 [Full PDF](http://SendurLanter.github.io/files/CSQCA.pdf)
 
-Adopted real-world datasets: http://snap.stanford.edu/data/
+[Adopted real-world datasets](http://snap.stanford.edu/data/)
