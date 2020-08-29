@@ -7,24 +7,4 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Education
-======
-* B.S. 
-
-Experience
-======
-* Summer
-  
-Skills
-======
-* Skill
-
-Publications
-======
-123
-  
-Leadership
-======
-* 123
+I will redirct this link to CV.pdf when I sent touch email to professor.
