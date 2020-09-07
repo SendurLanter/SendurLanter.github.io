@@ -78,15 +78,15 @@ author:
   location         : "New Taipei City, Taiwan"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com.tw/citations?user=&user=cUyugJAAAAAJ"
+  googlescholar    : #"https://scholar.google.com.tw/citations?user=&user=cUyugJAAAAAJ"
   email            : "smyonlys@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Chih_Ho_Hsu"
+  researchgate     : #"https://www.researchgate.net/profile/Chih_Ho_Hsu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "s.smalll.s"
+  facebook         : #"s.smalll.s"
   foursquare       :
   github           : "SendurLanter"
   google_plus      :
@@ -94,7 +94,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 智和-許-1ba81a15b/
+  linkedin         : #智和-許-1ba81a15b/
   orcid            :
   pinterest        :
   soundcloud       :
