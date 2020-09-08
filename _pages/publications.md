@@ -15,10 +15,10 @@ Journal Papers:
 
 Conference Papers:
 ======
-1. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based QoS Routing for Software-Defined Edge Network," in IEEE Globecom, 2020. [[PDF](http://SendurLanter.github.io/files/EQLBR.pdf)]
+1. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based QoS Routing for Software-Defined Edge Network," in IEEE Globecom Workshop, 2020. [[PDF](http://SendurLanter.github.io/files/EQLBR.pdf)]
 
-2. Y. Chao, **C. Hsu**, Y. Chiang, C. Chou and H. Wei, "Satellite-UAV-MEC Collaborative Architecture for Task Offloading in Vehicular Networks," in IEEE Globecom, 2020.
+2. Y. Chao, **C. Hsu**, Y. Chiang, C. Chou and H. Wei, "Satellite-UAV-MEC Collaborative Architecture for Task Offloading in Vehicular Networks," in IEEE Globecom Workshop, 2020. [[PDF](http://SendurLanter.github.io/files/UAV.pdf)]
 
-3. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality".
+3. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality," in IEEE International Conference on Mobility, Sensing and Networking (MSN), 2020. [[PDF](http://SendurLanter.github.io/files/MFQAS.pdf)]
 
-4. **C. Hsu**, "QoE-Driven Interest-Based Video Caching and Adaptation in 5G Mobile Edge Network" poster in Taiwan Telecommunication Annual Symposium, 2020.
+4. **C. Hsu**, "QoE-Driven Interest-Based Video Caching and Adaptation in 5G Mobile Edge Network" poster in Taiwan Telecommunication Annual Symposium, 2020. [[PDF](http://SendurLanter.github.io/files/Another_social.pdf)]
