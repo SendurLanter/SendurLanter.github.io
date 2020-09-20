@@ -44,7 +44,7 @@ In this work, I enhanced QoE and bandwidth utilization of 360◦ video streaming
 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
 
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-0/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
