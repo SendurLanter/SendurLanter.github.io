@@ -14,7 +14,7 @@ My name is **Chih-Ho Hsu (許智和)**. Currently, I'm pursuing the B.S. degree 
 
 You may:<br/>
     [Click here](https://sendurlanter.github.io/portfolio/) to see animated demo of my research,<br/>
-    [Click here](https://sendurlanter.github.io/publications/) to know more about my research work,<br/>
+    [Click here](https://sendurlanter.github.io/publications/) to see my publications,<br/>
     or contact me at [*smyonlys@gmail.com*](smyonlys@gmail.com).
 
 More about me
