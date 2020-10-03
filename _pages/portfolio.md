@@ -32,19 +32,19 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 
 The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
 
-MEC-Assisted FoV-Aware Adaptive 360◦ Video Streaming for VR
+MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 ------
-<font color=green>Tag: Adaptive 360◦ video streaming, Viewport prediction, VR, Edge computing</font>
+<font color=green>Tag: Adaptive 360° video streaming, Viewport prediction, VR, Edge computing</font>
 
 *Side project, 2020*
 
-In this work, I enhanced QoE and bandwidth utilization of 360◦ video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
+In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
 
 ### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
 
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-0/) <br/><br/><br/><br/>
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-3/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
