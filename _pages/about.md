@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!
 ======
-My name is **Chih-Ho Hsu (許智和)**. Currently, I'm pursuing the B.S. degree in Electrical Engineering with National Taiwan University (NTU) while serving research assistant under supervision the instruction of Prof. **Hung-Yu Wei**. My research interests include related issues in Wireless Communication and Computer Network: edge/fog computing, multimedia streaming, caching, computation offloading, social network,  and virtual reality. 
+<center>My name is **Chih-Ho Hsu (許智和)**. Currently, I'm pursuing the B.S. degree in Electrical Engineering with National Taiwan University (NTU) while serving research assistant under supervision the instruction of Prof. **Hung-Yu Wei**. My research interests include related issues in Wireless Communication and Computer Network: edge/fog computing, multimedia streaming, caching, computation offloading, social network,  and virtual reality. </center>
 
 You may:<br/>
 • [Click here](https://sendurlanter.github.io/portfolio/) to see animated demo of my research,<br/>
