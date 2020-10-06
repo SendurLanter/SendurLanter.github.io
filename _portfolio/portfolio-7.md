@@ -22,3 +22,9 @@ Virtual reality (VR) has been envisioned as the killer-application in the 5G mob
 
 
 <img src="http://SendurLanter.github.io/files/360.png"  width="600" height="400" align=center>
+
+
+Sorry! Since the paper is not officially published yet, I may not provide its FULL PDF here.
+
+[Adopted real-world datasets 1](https://wuchlei-thu.github.io/)
+[Adopted real-world datasets 2](https://github.com/afshin-aero/360dataset)
