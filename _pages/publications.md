@@ -21,4 +21,4 @@ Conference Papers:
 
 7. **C. Hsu**, Y. Chiang, and H. Wei,"QoE-Driven Interest-Based Video Caching and Adaptation in 5G Mobile Edge Network" poster in *Taiwan Telecommunication Annual Symposium*, 2020.
 
-8. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based QoS Routing for Software-Defined Edge Network," *under preparation*, 2020.
+8. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based Load-balanced QoS Flow Routing for Software Defined Edge Network," *under preparation*, 2020.
