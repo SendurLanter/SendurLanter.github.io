@@ -30,6 +30,6 @@ With the emerging demand for high-definition videos in recent years, Multi-acces
 <img src="http://SendurLanter.github.io/files/QoE.png"  width="500" height="375" align=center>
 
 
-[Full PDF](http://SendurLanter.github.io/files/CSQCA.pdf)
+Sorry! Since the paper is not officially published yet, I may not provide its FULL PDF here.
 
 [Adopted real-world datasets](http://snap.stanford.edu/data/)
