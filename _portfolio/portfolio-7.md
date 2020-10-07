@@ -21,7 +21,7 @@ Virtual reality (VR) has been envisioned as the killer-application in the 5G mob
 
 
 
-<img src="http://SendurLanter.github.io/files/QoE2.png"  width="500" height="700" align=center>
+<img src="http://SendurLanter.github.io/files/QoE2.png"  width="500" height="800" align=center>
 
 
 
