@@ -17,8 +17,8 @@ My research interests include related issues in Wireless Communication and Compu
 You may:<br/>
 • [Click here](https://sendurlanter.github.io/portfolio/) to see animated demo of my research,<br/>
 • [Click here](https://sendurlanter.github.io/publications/) to see my publications,<br/>
-• or contact me at [*smyonlys@gmail.com*]().
+• or contact me at *smyonlys@gmail.com* or *c.hus.wireless@gmail.com*.
 
 More about me
 ======
-As you may notice from the website, I like <font color=green>green</font>. I was an intern at Foxconn Advanced Communication Academy during *Sep. 2018 to Jul 2019*. Meanwhile, I serve as software engineer at BroadMission Technology from *Jan. 2019 to Jul 2019*. Since then, I have devoted myself to the field of wireless and mobile network. To see more details, please refer to [my CV](https://sendurlanter.github.io/files/CV.pdf)
+As you may notice from the website, I like <font color=green>GREEN</font>. I was an intern at Foxconn Advanced Communication Academy during *Sep. 2018 to Jul 2019*. Meanwhile, I serve as software engineer at BroadMission Technology from *Jan. 2019 to Jul 2019*. Since then, I have devoted myself to the field of wireless and mobile network. To see more details, please refer to [my CV](https://sendurlanter.github.io/files/CV.pdf)

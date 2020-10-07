@@ -4,6 +4,34 @@ permalink: /portfolio/
 author_profile: false
 ---
 
+Parallel Task Offloading for Augmented Realty in Dynamic MEC System
+------
+<font color=green>Tag: AR, Task offloading, Network slicing</font>
+
+*Research work in "Wireless and Mobile Networking Laboratory", 2019*
+
+This is a simple application I made for demonstrating our 5G testbed. The computation tasks of AR involved in object detection, projection and rendering are offloaded to our proximate edge server. We also realize a dynamic network slicing system with Docker based on workload prediction. 
+
+### Demo:
+
+<img src="http://SendurLanter.github.io/files/AR.gif"  width="300" height="225" align=center> 
+
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+
+MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
+------
+<font color=green>Tag: Adaptive 360° video streaming, Viewport prediction, VR, Edge computing</font>
+
+*Side project, 2020*
+
+In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
+
+### Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
+
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+
 Collaborative Social-Aware Video Caching in Edge Network
 ------
 <font color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
@@ -31,20 +59,6 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
 
 The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/><br/>
-
-MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
-------
-<font color=green>Tag: Adaptive 360° video streaming, Viewport prediction, VR, Edge computing</font>
-
-*Side project, 2020*
-
-In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
-
-### Demo of key concept:
-
-<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
-
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
