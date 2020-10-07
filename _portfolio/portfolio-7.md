@@ -17,6 +17,14 @@ Virtual reality (VR) has been envisioned as the killer-application in the 5G mob
 
 
 
+## QoE model for 360° video:
+
+
+
+<img src="http://SendurLanter.github.io/files/QoE2.png"  width="500" height="550" align=center>
+
+
+
 ## Example of predicted FoV and resolution decision in the designed system:
 
 
