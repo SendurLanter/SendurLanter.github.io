@@ -8,7 +8,7 @@ Parallel Task Offloading for Augmented Realty in Dynamic MEC System
 ------
 <font color=green>Tag: AR, Task offloading, Network slicing</font>
 
-*Research work in "Wireless and Mobile Networking Laboratory", 2019*
+*Research work in "Wireless and Mobile Networking Laboratory", 2020*
 
 This is a simple application I made for demonstrating our 5G testbed. The computation tasks of AR involved in object detection, projection and rendering are offloaded to our proximate edge server. We also realize a dynamic network slicing system with Docker based on workload prediction. 
 
@@ -16,7 +16,7 @@ This is a simple application I made for demonstrating our 5G testbed. The comput
 
 <img src="http://SendurLanter.github.io/files/AR.gif"  width="300" height="225" align=center> 
 
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 ------
