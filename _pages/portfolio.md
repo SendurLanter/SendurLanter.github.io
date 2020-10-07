@@ -10,7 +10,7 @@ Parallel Task Offloading for Augmented Realty in Dynamic MEC System
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2020*
 
-This is a simple application I made for demonstrating our 5G testbed. The computation tasks of AR involved in object detection, projection and rendering are offloaded to our proximate edge server. We also realize a dynamic network slicing system with Docker based on workload prediction. 
+This is a simple application I made for demonstrating our 5G testbed. The computation tasks of AR apps (e.g. object detection, projection and rendering) are offloaded to our proximate edge server for execution. We also realize a dynamic network slicing system with Docker based on workload prediction. 
 
 ### Demo:
 
