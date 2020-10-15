@@ -18,19 +18,6 @@ This is a simple AR application I made for demonstrating our 5G testbed. The com
 
 <br/><br/><br/><br/>
 
-MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
-------
-<font color=green>Tag: Adaptive 360° video streaming, Viewport prediction, VR, Edge computing</font>
-
-*Side project, 2020*
-
-In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
-
-### Demo of key concept:
-
-<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
-
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Collaborative Social-Aware Video Caching in Edge Network
 ------
@@ -73,6 +60,20 @@ In this work, by modeling interference incurring by BS2D, D2D communication and 
 <img src="http://SendurLanter.github.io/files/demo.gif"  width="300" height="225" align=center>
 
 The red/blue lines represent BS2D and D2D transmission respectively. Also, the flash green point denotes a content request, obeying the Poisson process. <br/><br/><br/><br/>
+
+MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
+------
+<font color=green>Tag: Adaptive 360° video streaming, Viewport prediction, VR, Edge computing</font>
+
+*Side project, 2020*
+
+In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
+
+### Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
+
+This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
 Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
