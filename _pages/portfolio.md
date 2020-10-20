@@ -61,6 +61,7 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 ### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
+<img src="http://SendurLanter.github.io/files/cosine2.png" width="400" height="225">
 
 The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/>
 
