@@ -10,9 +10,9 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
-In this work, I first adopt time series model to quantify in users' interaction pattern, and mathematically formulated the information dissemination among users in online social network. 
+In this work, I first adopt time series model to quantify in users' interaction pattern, and then mathematically formulated the information dissemination among users in online social network. 
 
-Then, I developed a heuristic algorithm that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine collaborative caching decision among multiple edge servers with an aim to optimize users' QoE.
+Afterward, I developed a heuristic algorithm that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine collaborative caching decision among multiple edge servers with an aim to optimize users' QoE.
 
 ### Demo of key concept:
 
