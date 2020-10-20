@@ -90,18 +90,8 @@ The experiment are based on datasets that collected in UMass campus. [Click to s
 
 Traffic simulator for Public Transportation System of Taipei
 ------
-*Side project, 2017*
+*Side project, 2015*
 
 ### Demo: 
 
 <img src="http://SendurLanter.github.io/files/MRT.gif"  width="300" height="225" align=center> <br/> <br/><br/><br/><br/>
-
-Mobile game
-------
-*Side project, 2015*
-
-This is a imitation of Tower of Saviors, which is a popular mobile game when I was in high school. I build a simple .apk file for my android smart phone.
-
-### Demo: 
-
-<img src="http://SendurLanter.github.io/files/got.gif" width="150" height="375" align=center> <br/> <br/><br/><br/><br/>

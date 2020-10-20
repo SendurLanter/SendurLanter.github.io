@@ -17,7 +17,7 @@ Conference Papers:
 
 5. **C. Hsu**, Y. Chiang, and H. Wei, "Mobility-Aware Joint QoS Promotion and Load Balancing in MEC-based Vehicular Networks: A Deep Learning Approach," submitted to *IEEE Vehicular Technology Conference (VTC)*, 2020.
 
-6. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality," to appear in *IEEE International Conference on Mobility, Sensing and Networking (MSN)*, 2020. [[Demo](https://sendurlanter.github.io/portfolio/)]
+6. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality," to appear in *IEEE International Conference on Mobility, Sensing and Networking*, 2020. [[Demo](https://sendurlanter.github.io/portfolio/)]
 
 7. **C. Hsu**, Y. Chiang, and H. Wei,"QoE-Driven Interest-Based Video Caching and Adaptation in 5G Mobile Edge Network" poster in *Taiwan Telecommunication Annual Symposium*, 2020.
 
