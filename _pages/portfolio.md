@@ -10,7 +10,7 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
-In this work, I first adopt time series model to quantify in users' interaction pattern, and then mathematically formulated the information dissemination among users in online social network. Afterward, I developed a heuristic algorithm that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine collaborative caching decision among multiple edge servers with an aim to optimize users' QoE.
+In this work, I first adopt a time series model to quantify users' interaction patterns, and then mathematically formulated information dissemination among users in the online social network. Afterward, I developed a intact video caching and adaptation framework that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine 1) collaborative caching decision among multiple edge servers, and 2) real-time video transcoding decision with an aim to optimize users' QoE.
 
 ### Demo of key concept:
 
@@ -25,7 +25,7 @@ MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 
 *Side project, 2020*
 
-In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by adaptively determining encoding bitrate of each tile based on Prediction of user's Field of View (FoV). In addition, edge servers are considered to provide caching and computing capacity to reduce the experienced latency of VR devices.
+In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by adaptively determining encoding bitrate of each tile based on prediction of user's Field of View (FoV). In addition, edge servers are considered to provide caching and computing capacity to reduce the experienced latency of VR devices.
 
 ### Demo of key concept:
 
