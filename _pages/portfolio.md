@@ -12,11 +12,9 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I developed a heuristic algorithm that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine collaborative caching decision among edge servers with an aim to optimize users' QoE.
 
-### System model and Demo of key concept:
+### Demo of key concept:
 
-<img src="http://SendurLanter.github.io/files/CSQCA.png"  width="500" height="300" align=center>
-
-<img src="http://SendurLanter.github.io/files/Diss.png"  width="500" height="300" align=center>
+<img src="http://SendurLanter.github.io/files/Diss.png"  width="450" height="300" align=center>
 <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 
 In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/><br/>
@@ -30,8 +28,9 @@ MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
 
 ### Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center>
 <img src="http://SendurLanter.github.io/files/360.png"  width="400" height="300" align=center>
-<img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center> 
 
 This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/><br/>
 
