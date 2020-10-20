@@ -61,7 +61,7 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 ### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
-<img src="http://SendurLanter.github.io/files/cosine2.png" width="400" height="225">
+<img src="http://SendurLanter.github.io/files/cosine2.png" width="400" height="300">
 
 The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/>
 
@@ -75,7 +75,8 @@ This is a simple AR application I made for demonstrating our 5G testbed. The com
 
 ### Demo:
 
-<img src="http://SendurLanter.github.io/files/AR.gif"  width="300" height="225" align=center> <br/><br/><br/>
+<img src="http://SendurLanter.github.io/files/AR.gif"  width="300" height="225" align=center> 
+<img src="http://SendurLanter.github.io/files/ARslice.png" width="400" height="300"> <br/><br/><br/>
 
 Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 ------
@@ -87,7 +88,7 @@ In this work, I developed an interest-based QoE-driven partial video caching sch
 
 ### Performance Demo:
 
-<img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center>
+<img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center> <img src="http://SendurLanter.github.io/files/TW.png" width="400" height="300">
 
 The experiment are based on datasets that collected in UMass campus. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
 
