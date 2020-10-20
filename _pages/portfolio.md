@@ -10,7 +10,9 @@ Collaborative Social-Aware Video Caching in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
-In this work, I mathematically formulated the information dissemination process through interaction on social media. Then, I developed a heuristic algorithm that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine collaborative caching decision among edge servers with an aim to optimize users' QoE.
+In this work, I first adopt time series model to quantify in users' interaction pattern, and mathematically formulated the information dissemination among users in online social network. 
+
+Then, I developed a heuristic algorithm that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine collaborative caching decision among multiple edge servers with an aim to optimize users' QoE.
 
 ### Demo of key concept:
 
@@ -25,14 +27,14 @@ MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 
 *Side project, 2020*
 
-In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by predicting Field of View (FoV) of the user. In addition, edge servers are considered to provide caching and computing capacity to aid the VR device.
+In this work, I enhanced QoE and bandwidth utilization of 360° video streaming service by adaptively determining encoding bitrate of each tile based on Prediction of user's Field of View (FoV). In addition, edge servers are considered to provide caching and computing capacity to reduce the experienced latency of VR devices.
 
 ### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center>
 <img src="http://SendurLanter.github.io/files/360.png"  width="400" height="300" align=center>
 
-This figure shows the actual/predicted FoV in the head-mounted display (HMD), where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/>
+This figure shows the actual/predicted FoV of users during streaming process, where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/>
 
 Analysis of D2D caching schemes in Heterogeneous Network
 ------
@@ -40,7 +42,7 @@ Analysis of D2D caching schemes in Heterogeneous Network
 
 *Course project in "Introduction to Wireless and Mobile Networking", 2019*
 
-In this work, by modeling interference incurring by BS2D, D2D communication and the corresponding wireless channels, I implement the simulation for different D2D caching schemes with user mobility where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
+In this work, by modeling user mobility, inter-cell interference from D2D and BS2D communication, and wireless fading channels, I implement the simulation for a few D2D caching schemes, where each device can prefetch popular contents from the base stations (BS) and share them with proximate peers.
 
 ### Demo of key concept:
 
@@ -80,7 +82,7 @@ Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
-In this work, I developed an interest-based partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In this way, users' QoE can be further improved.
+In this work, I developed an interest-based QoE-driven partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In addition, edge servers are adopted to perform real-time transcoding on video to serve users with time-varying downlink capacity.
 
 ### Performance Demo:
 
