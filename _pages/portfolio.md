@@ -15,7 +15,7 @@ In this work, I mathematically formulated the information dissemination process 
 ### Demo of key concept:
 
 <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
-<img src="http://SendurLanter.github.io/files/Diss.png"  width="450" height="300" align=center>
+<img src="http://SendurLanter.github.io/files/Diss.png"  width="420" height="300" align=center>
 
 In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/>
 
