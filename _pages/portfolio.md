@@ -82,11 +82,11 @@ Interest-based QoE-Driven Video Caching and Adaptation in Edge Network
 
 *Research work in "Wireless and Mobile Networking Laboratory", 2019*
 
-In this work, I developed an interest-based QoE-driven partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In addition, edge servers are adopted to perform real-time transcoding on video to serve users with time-varying downlink capacity.
+In this work, I developed an interest-based QoE-driven partial video caching scheme in the edge network, where the caching decisions are made depended on users' viewing history and current backhaul bandwidth. In addition, edge servers are deployed to perform real-time transcoding on cached videos to serve users with time-varying downlink capacity.
 
 ### Performance Demo:
 
-<img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center> <img src="http://SendurLanter.github.io/files/TW.png" width="400" height="300">
+<img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center> <img src="http://SendurLanter.github.io/files/TW.png" width="300" height="225">
 
 The experiment are based on datasets that collected in UMass campus. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
 
