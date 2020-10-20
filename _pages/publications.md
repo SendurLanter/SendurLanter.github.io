@@ -7,7 +7,7 @@ Journal Papers:
 ======
 1. Y. Chiang, **C. Hsu**, H. Wei, "Collaborative Social-Aware and QoE-Driven Video Caching and Adaptation in Edge Network," to appear in *IEEE Transaction on Multimedia*, 2020. [[Demo](https://sendurlanter.github.io/portfolio/)]
 
-2. Y. Chiang, Y. Chao, **C. Hsu**, C. Chou and H. Wei, "Virtual Network Embedding With Dynamic Speed Switching Orchestration in Edge Network," in *IEEE Access*, vol. 8, pp. 84753-84768, 2020. [[PDF](http://SendurLanter.github.io/files/Access.pdf)]
+2. Y. Chiang, Y. Chao, **C. Hsu**, C. Chou and H. Wei, "Virtual Network Embedding With Dynamic Speed Switching Orchestration in Edge Network," in *IEEE Access*, vol. 8, pp. 84753-84768, 2020. [[PDF](https://ieeexplore.ieee.org/document/9085392)]
 
 3. Y. Chiang, Y. Zhang, **C. Hsu**, Y. Chao, and H. Wei, "Management and Orchestration of Edge Computing: A survey," *under preparation*.
 
