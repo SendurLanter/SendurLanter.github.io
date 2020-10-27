@@ -12,10 +12,10 @@ Welcome!
 ======
 My name is **Chih-Ho Hsu (許智和)**. Currently, I'm pursuing the B.S. degree in Electrical Engineering at National Taiwan University (NTU) while serving research assistant under the supervision of Prof. [**Hung-Yu Wei**](https://scholar.google.com/citations?user=a7tj-HgAAAAJ&hl=en) in Wireless Mobile Network Lab ([link](http://wmnlab.ee.ntu.edu.tw/lab/index.html)).
 
-My research interests include related issues in Wireless Communication and Computer Network: edge/fog computing, multimedia streaming, caching, computation offloading, social network,  and virtual reality. 
+My research interests include related topics in Wireless Communication and Computer Network: edge/fog computing, multimedia streaming, caching, task offloading, social network, reinforcement learning, and virtual reality. 
 
 You may:<br/>
-• [Click here](https://sendurlanter.github.io/portfolio/) to see animated demo of my research,<br/>
+• [Click here](https://sendurlanter.github.io/portfolio/) to see some animated demo of my past works,<br/>
 • [Click here](https://sendurlanter.github.io/publications/) to see my publications,<br/>
 • or contact me at *smyonlys@gmail.com* or *c.hus.wireless@gmail.com*.
 
