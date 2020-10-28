@@ -34,7 +34,7 @@ In this work, I enhanced QoE and bandwidth utilization of 360° video streaming 
 
 This figure shows the actual/predicted FoV of users during streaming process, where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/>
 
-Analysis of D2D caching schemes in Heterogeneous Network
+Analysis of D2D Caching Schemes in Heterogeneous Network
 ------
 <font color=green>Tag: D2D communication, Caching, Heterogeneous network</font>
 
@@ -63,7 +63,7 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 
 The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/>
 
-Parallel Task Offloading for Augmented Realty in Dynamic MEC System
+Parallel Task Offloading for Augmented Realty in Dynamic MEC Slice
 ------
 <font color=green>Tag: AR, Task offloading, Network slicing</font>
 
@@ -90,7 +90,7 @@ In this work, I developed an interest-based QoE-driven partial video caching sch
 
 The experiment are based on datasets that collected in UMass campus. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
 
-Traffic simulator for Public Transportation System of Taipei
+Traffic Simulator for Public Transportation System of Taipei
 ------
 *Side project,* **2015**
 
