@@ -9,7 +9,7 @@ Journal Papers:
 
 2. Y. Chiang, Y. Chao, **C. Hsu**, C. Chou and H. Wei, "Virtual Network Embedding With Dynamic Speed Switching Orchestration in Edge Network," in *IEEE Access*, vol. 8, pp. 84753-84768, 2020. [[PDF](https://ieeexplore.ieee.org/document/9085392)]
 
-3. Y. Chiang, Y. Zhang, **C. Hsu**, Y. Chao, and H. Wei, "Management and Orchestration of Edge Computing: A survey," *under preparation*.
+3. Y. Chiang, Y. Zhang, **C. Hsu**, Y. Chao, and H. Wei, "Management and Orchestration of Edge Computing: A Survey on State-of-the-art Techniques and Infrastructures," *will be submitted soon*.
 
 Conference Papers:
 ======
@@ -21,4 +21,4 @@ Conference Papers:
 
 7. **C. Hsu**, Y. Chiang, and H. Wei,"QoE-Driven Interest-Based Video Caching and Adaptation in 5G Mobile Edge Network" poster in *Taiwan Telecommunication Annual Symposium*, 2020.
 
-8. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based Load-balanced QoS Flow Routing for Software Defined Edge Network," *under preparation*, 2020.
+8. **C. Hsu**, Y. Chiang, and H. Wei, "Entropy-based Load-balanced QoS Flow Routing for Software Defined Edge Network," submitted to *IEEE International Conference on Communications (ICC)*, 2020.
