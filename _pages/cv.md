@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
 Statement of Purpose - UCDavis
 =============
 I aspire to pursue a PhD degree in the area of Wireless Communication and Networking. My long-term goal is to become a researcher in the laboratory of a high-tech company with an aspiration to completely reform the way we connect with the world. I believe I can reach this goal with graduate training in the ECE department of UCDavis.
