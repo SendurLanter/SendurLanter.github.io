@@ -10,7 +10,10 @@ main:
 
   - title: "Curriculum Vitae"
     url: /files/CV.pdf
-    
+
+  - title: "SOP & PHS"
+    url: /cv/
+
   #- title: "Teaching"
   #  url: /teaching/    
     

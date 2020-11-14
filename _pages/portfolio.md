@@ -17,7 +17,7 @@ In this work, I first adopt a time series model to quantify users' interaction p
 <img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
 <img src="http://SendurLanter.github.io/files/Diss.png"  width="420" height="300" align=center>
 
-In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-1/) <br/><br/><br/>
+In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. <br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 ------
@@ -32,7 +32,7 @@ In this work, I enhanced QoE and bandwidth utilization of 360° video streaming 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center>
 <img src="http://SendurLanter.github.io/files/360.png"  width="400" height="300" align=center>
 
-This figure shows the actual/predicted FoV of users during streaming process, where the data are collected in the real-world trace. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-7/) <br/><br/><br/>
+This figure shows the actual/predicted FoV of users during streaming process, where the data are collected in the real-world trace. <br/><br/><br/>
 
 Analysis of D2D Caching Schemes in Heterogeneous Network
 ------
@@ -61,7 +61,7 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
 <img src="http://SendurLanter.github.io/files/cosine2.png" width="400" height="300">
 
-The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-2/) <br/><br/><br/>
+The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. <br/><br/><br/>
 
 Parallel Task Offloading for Augmented Realty in Dynamic MEC Slice
 ------
@@ -88,7 +88,7 @@ In this work, I developed an interest-based QoE-driven partial video caching sch
 
 <img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center> <img src="http://SendurLanter.github.io/files/TW.png" width="300" height="225">
 
-The experiment are based on datasets that collected in UMass campus. [Click to see details](https://sendurlanter.github.io/portfolio/portfolio-4/) <br/><br/><br/><br/>
+The experiment are based on datasets that collected in UMass campus. <br/><br/><br/><br/>
 
 Traffic Simulator for Public Transportation System of Taipei
 ------
