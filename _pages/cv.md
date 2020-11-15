@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Feel free to take my application documents as a sample, especially for those with similar backgrounds. I hope these can help your application too."
 permalink: /cv/
 author_profile: true
 redirect_from:
