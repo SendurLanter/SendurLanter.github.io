@@ -11,8 +11,8 @@ main:
   - title: "CV/Resume"
     url: /files/CV.pdf
 
-  - title: "SOP & PHS"
-    url: /cv/
+  #- title: "SOP & PHS"
+  #  url: /cv/
 
   #- title: "Teaching"
   #  url: /teaching/    
