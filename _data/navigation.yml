@@ -1,4 +1,7 @@
 main:
+  - title: "About"
+    url: / 
+
   - title: "Research & Projects"
     url: /portfolio/
 
@@ -12,10 +15,7 @@ main:
     url: /files/CV.pdf
 
   #- title: "SOP & PHS"
-  #  url: /cv/
-
-  #- title: "Teaching"
-  #  url: /teaching/    
+  #  url: /cv/ 
     
   #- title: "Portfolio"
   #  url: /talks/
