@@ -5,7 +5,7 @@ permalink: /publications/
 
 Journal Papers:
 ======
-1. Y. Chiang, **C. Hsu**, H. Wei, "Collaborative Social-Aware and QoE-Driven Video Caching and Adaptation in Edge Network," to appear in *IEEE Transaction on Multimedia*, 2020. [[Link](https://ieeexplore.ieee.org/document/9271894)]
+1. Y. Chiang, **C. Hsu**, H. Wei, "Collaborative Social-Aware and QoE-Driven Video Caching and Adaptation in Edge Network," in *IEEE Transaction on Multimedia*, 2020. [[Link](https://ieeexplore.ieee.org/document/9271894)]
 
 2. Y. Chiang, Y. Chao, **C. Hsu**, C. Chou and H. Wei, "Virtual Network Embedding With Dynamic Speed Switching Orchestration in Edge Network," in *IEEE Access*, vol. 8, pp. 84753-84768, 2020. [[Link](https://ieeexplore.ieee.org/document/9085392)]
 
@@ -15,7 +15,7 @@ Conference Papers:
 ======
 4. Y. Chao, Y. Chiang, **C. Hsu**, C. Chou and H. Wei, "Satellite-UAV-MEC Collaborative Architecture for Task Offloading in Vehicular Networks," to appear in *IEEE GLOBECOM Workshop*, 2020.
 
-5. **C. Hsu**, Y. Chiang, and H. Wei, "Mobility-Aware Joint QoS Promotion and Load Balancing in MEC-based Vehicular Networks: A Deep Learning Approach," submitted to *IEEE Vehicular Technology Conference (VTC)*, 2020.
+5. **C. Hsu**, Y. Chiang, and H. Wei, "Mobility-Aware Joint QoS Promotion and Load Balancing in MEC-based Vehicular Networks: A Deep Learning Approach," to appear in *IEEE Vehicular Technology Conference (VTC)*, 2021.
 
 6. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360◦ Video Streaming for Virtual Reality," to appear in *IEEE International Conference on Mobility, Sensing and Networking*, 2020. [[Demo](https://sendurlanter.github.io/portfolio/)]
 
