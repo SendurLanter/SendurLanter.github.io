@@ -45,7 +45,11 @@ In this work, I enhanced QoE and bandwidth utilization of 360° video streaming 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center>
 <img src="http://SendurLanter.github.io/files/360.png"  width="400" height="300" align=center>
 
-This figure shows the actual/predicted FoV of a user during watching a 360° video. <br/><br/><br/>
+The left figure shows the actual/predicted FoV of a user during watching a 360° video.
+
+The right figure is an example of the resolution decision made by the proposed method.
+
+<br/><br/><br/>
 
 Analysis of D2D Caching Schemes in Heterogeneous Network
 ------
@@ -74,7 +78,9 @@ In this work, I studied and compared state-of-the-art researches in resource-con
 <img src="http://SendurLanter.github.io/files/HLS.gif"  width="300" height="225" align=center> 
 <img src="http://SendurLanter.github.io/files/cosine2.png" width="400" height="300">
 
-The figure shows the scheduling decision of Deep Reinforcement Learning method. Green/blue nodes signify unscheduled/finished tasks respectively and the arrows in the directed graph are dependencies between tasks. <br/><br/><br/>
+The right figure is the task topology of the adopted benchmark where the arrows in the directed graph denote dependencies between tasks.
+
+The left figure shows the scheduling decision of the implemented Deep Reinforcement Learning (DRL) model. Green/blue nodes signify unscheduled/finished tasks respectively. <br/><br/><br/>
 
 Parallel Task Offloading for Augmented Realty in Dynamic MEC Slice
 ------
@@ -101,7 +107,7 @@ In this work, I developed an interest-based QoE-driven partial video caching sch
 
 <img src="http://SendurLanter.github.io/files/Interest.gif"  width="300" height="225" align=center> <img src="http://SendurLanter.github.io/files/TW.png" width="300" height="225">
 
-The experiment are based on datasets that collected in UMass campus. <br/><br/><br/><br/>
+The experiment are conducted based on real-world datasets (i.e. Youtube trace collected in UMass campus). <br/><br/><br/><br/>
 
 Traffic Simulator for Public Transportation System of Taipei
 ------
