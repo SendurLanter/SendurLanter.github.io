@@ -45,7 +45,7 @@ In this work, I enhanced QoE and bandwidth utilization of 360° video streaming 
 <img src="http://SendurLanter.github.io/files/Pitch.gif"  width="300" height="225" align=center>
 <img src="http://SendurLanter.github.io/files/360.png"  width="400" height="300" align=center>
 
-This figure shows the actual/predicted FoV of users during streaming process, where the data are collected in the real-world trace. <br/><br/><br/>
+This figure shows the actual/predicted FoV of a user during watching a 360° video. <br/><br/><br/>
 
 Analysis of D2D Caching Schemes in Heterogeneous Network
 ------
