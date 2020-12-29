@@ -19,7 +19,7 @@ In this work, I first adopt a time series model to quantify users' interaction p
 
 In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. <br/><br/><br/>
 
-5G Edge Computing Integrated Testbed
+Edge Intelligence: 5G Integrated Testbed
 ------
 <font color=green>Tag: Edge computing, Testbed</font>
 
