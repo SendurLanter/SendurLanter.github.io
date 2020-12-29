@@ -4,21 +4,6 @@ permalink: /portfolio/
 author_profile: false
 ---
 
-Collaborative Social-Aware Video Caching in Edge Network
-------
-<font color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
-
-*Research work in "Wireless and Mobile Network Laboratory",* **2019**
-
-In this work, I first adopt a time series model to quantify users' interaction patterns, and then mathematically formulated information dissemination among users in the online social network. Afterward, I developed a intact video caching and adaptation framework that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine 1) collaborative caching decision among multiple edge servers, and 2) real-time video transcoding decision with an aim to optimize users' QoE.
-
-### Demo of key concept:
-
-<img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
-<img src="http://SendurLanter.github.io/files/Diss.png"  width="420" height="300" align=center>
-
-In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. <br/><br/><br/>
-
 Edge Intelligence: 5G Integrated Testbed
 ------
 <font color=green>Tag: Edge computing, Testbed</font>
@@ -31,6 +16,33 @@ In this collaobrative project, I'm in charge of implementing the edge computing 
 
 <img src="http://SendurLanter.github.io/files/Testbed.png"  width="900" height="525" align=center>
 <br/><br/><br/>
+
+Collaborative Social-Aware Video Caching in Edge Network
+------
+<fonEdge Intelligence: 5G Integrated Testbed
+------
+<font color=green>Tag: Edge computing, Testbed</font>
+
+*Implementation work in "Wireless and Mobile Network Laboratory",* **2020**
+
+In this collaobrative project, I'm in charge of implementing the edge computing system and addressing related API of each component in our testbed.
+
+### System overview:
+
+<img src="http://SendurLanter.github.io/files/Testbed.png"  width="900" height="525" align=center>
+<br/><br/><br/>
+t color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
+
+*Research work in "Wireless and Mobile Network Laboratory",* **2019**
+
+In this work, I first adopt a time series model to quantify users' interaction patterns, and then mathematically formulated information dissemination among users in the online social network. Afterward, I developed a intact video caching and adaptation framework that utilizes users' viewing history, users' channel condition and video dissemination state in the community to determine 1) collaborative caching decision among multiple edge servers, and 2) real-time video transcoding decision with an aim to optimize users' QoE.
+
+### Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/dissemination.gif"  width="300" height="225" align=center>
+<img src="http://SendurLanter.github.io/files/Diss.png"  width="420" height="300" align=center>
+
+In the figure, the black line means the message exchange between users and the green/red nodes represent the users have/haven't seen a certain video. All of the user data are collected in real-world traces. <br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
 ------
