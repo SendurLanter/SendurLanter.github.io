@@ -19,19 +19,7 @@ In this collaobrative project, I'm in charge of implementing the edge computing 
 
 Collaborative Social-Aware Video Caching in Edge Network
 ------
-<fonEdge Intelligence: 5G Integrated Testbed
-------
-<font color=green>Tag: Edge computing, Testbed</font>
-
-*Implementation work in "Wireless and Mobile Network Laboratory",* **2020**
-
-In this collaobrative project, I'm in charge of implementing the edge computing system and addressing related API of each component in our testbed.
-
-### System overview:
-
-<img src="http://SendurLanter.github.io/files/Testbed.png"  width="900" height="525" align=center>
-<br/><br/><br/>
-t color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
+<font color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
 
 *Research work in "Wireless and Mobile Network Laboratory",* **2019**
 
