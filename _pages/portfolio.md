@@ -29,7 +29,7 @@ In this collaobrative project, I'm in charge of implementing the edge computing 
 
 ### System overview:
 
-<img src="http://SendurLanter.github.io/files/Testbed.png"  width="600" height="350" align=center>
+<img src="http://SendurLanter.github.io/files/Testbed.png"  width="900" height="525" align=center>
 <br/><br/><br/>
 
 MEC-Assisted FoV-Aware Adaptive 360° Video Streaming for VR
