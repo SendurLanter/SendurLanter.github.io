@@ -27,7 +27,7 @@ In this work, I developed a 2-stage method to jointly optimize UAV deployment an
 
 ### Demo of key concept:
 
-<img src="http://SendurLanter.github.io/files/UAV.gif"  width="300" height="300" align=center>
+<img src="http://SendurLanter.github.io/files/UAV.gif"  width="300" height="350" align=center>
 <img src="http://SendurLanter.github.io/files/DNN.png"  width="420" height="300" align=center>
 <br/><br/><br/>
 
