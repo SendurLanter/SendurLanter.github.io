@@ -23,7 +23,7 @@ Deep Learning based Joint Optimization of UAV position and Resource Allocation i
 
 *Research work in "Wireless and Mobile Network Laboratory",* **2020**
 
-In this work, I developed a 2-stage method to jointly optimize UAV deployment and resource allocation for vehicular network. By modeling it as a multi-task learning, I implemented a DNN that can dynamically tune its weights and jointly determine offloading decision, allocation of spectrum and computing resources for vehicular tasks in real time.
+In this work, I developed a 2-stage method to jointly optimize UAV deployment and resource allocation for vehicular network. By modeling it as a multi-task learning problem, I implemented a DNN that can dynamically tune its weights to adapt to wireless environment and can jointly determine offloading decision, allocation of spectrum and computing resources for vehicular tasks in real time.
 
 ### Demo of key concept:
 
