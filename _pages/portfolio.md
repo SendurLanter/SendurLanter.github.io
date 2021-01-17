@@ -17,6 +17,20 @@ In this collaobrative project, I'm in charge of implementing the edge computing 
 <img src="http://SendurLanter.github.io/files/Testbed.png"  width="900" height="525" align=center>
 <br/><br/><br/>
 
+Deep Learning based Joint Optimization of UAV position and Resource Allocation in Vehicular Network
+------
+<font color=green>Tag: Deep learning, UAV clustering, Mobility, Edge computing</font>
+
+*Research work in "Wireless and Mobile Network Laboratory",* **2020**
+
+In this work, I developed a 2-stage method to jointly optimize UAV deployment and resource allocation for vehicular network. By modeling it as a multi-task learning, I implemented a DNN that can dynamically tune its weights and jointly determine offloading decision, allocation of spectrum and computing resources for vehicular tasks in real time.
+
+### Demo of key concept:
+
+<img src="http://SendurLanter.github.io/files/UAV.gif"  width="300" height="225" align=center>
+<img src="http://SendurLanter.github.io/files/DNN.png"  width="420" height="300" align=center>
+<br/><br/><br/>
+
 Collaborative Social-Aware Video Caching in Edge Network
 ------
 <font color=green>Tag: Adaptive video streaming, Collaborative caching, Edge computing, Social network</font>
