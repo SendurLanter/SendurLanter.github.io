@@ -41,3 +41,15 @@ Letter of Recommendation (draft)
 [[LoR2](https://sendurlanter.github.io/files/LoR2.pdf)]
 
 [[LoR3](https://sendurlanter.github.io/files/LoR3.pdf)]
+
+
+ECE PhD exam (KAUST)
+=============
+
+[[calculus](https://sendurlanter.github.io/files/calculus.pdf)]
+
+[[linear algebra](https://sendurlanter.github.io/files/linear_algebra.pdf)]
+
+[[probability](https://sendurlanter.github.io/files/probability.pdf)]
+
+[[signals and systems](https://sendurlanter.github.io/files/signals_and_systems.pdf)]
