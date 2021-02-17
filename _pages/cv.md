@@ -11,6 +11,13 @@ Application list
 =============
 [[Program_deadline](https://sendurlanter.github.io/files/ApplicationList.xlsx)]
 
+CV
+=============
+[[My_CV](https://sendurlanter.github.io/files/CV.pdf)]
+
+[[Template1](https://sendurlanter.github.io/files/ece_upcp_resume_template_and_guide_spring19.docx)]
+
+[[Template2](https://sendurlanter.github.io/files/formal_resume.docx)]
 
 Statement of Purpose
 =============
