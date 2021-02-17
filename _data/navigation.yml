@@ -14,8 +14,8 @@ main:
   - title: "CV/Resume"
     url: /files/CV.pdf
 
-  #- title: "SOP & PHS"
-  #  url: /cv/ 
+  - title: "Application"
+    url: /cv/ 
     
   #- title: "Portfolio"
   #  url: /talks/
