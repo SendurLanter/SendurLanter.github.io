@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Feel free to take my application documents as a sample."
+title: "Chih-ho Hsu - application documents"
 permalink: /cv/
 author_profile: true
 redirect_from:
