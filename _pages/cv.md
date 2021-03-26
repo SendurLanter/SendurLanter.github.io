@@ -7,10 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-
-=============
-
 Application list
 =============
 [[Program_deadline](https://sendurlanter.github.io/files/ApplicationList.xlsx)]
