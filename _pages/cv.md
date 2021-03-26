@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Chih-ho Hsu - application documents"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
