@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: / 
+    url: /
 
   - title: "Research & Projects"
     url: /portfolio/
@@ -15,7 +15,7 @@ main:
     url: /files/CV.pdf
 
   - title: "Application"
-    url: /cv/ 
+    url: /application/ 
     
   #- title: "Portfolio"
   #  url: /talks/
