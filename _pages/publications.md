@@ -16,6 +16,6 @@ Conference Papers:
 
 4. Y. Chao, C. Chung, **C. Hsu**, Y. Chiang, H. Wei, "Satellite-UAV-MEC Collaborative Architecture for Task Offloading in Vehicular Networks," *IEEE Globecom Workshops*, pp. 1-6, 2020.
 
-5. **C. Hsu**, Y. Chiang, and H. Wei, "Mobility-Aware Joint QoS Promotion and Load Balancing in MEC-based Vehicular Networks: A Deep Learning Approach," to appear in *IEEE Vehicular Technology Conference (VTC)*, pp. 1-6, 2021.
+5. **C. Hsu**, Y. Chiang, and H. Wei, "Mobility-Aware Joint QoS Promotion and Load Balancing in MEC-based Vehicular Networks: A Deep Learning Approach," *IEEE Vehicular Technology Conference (VTC)*, pp. 1-6, 2021.
 
 6. **C. Hsu**, "MEC-Assisted FoV-Aware and QoE-Driven Adaptive 360° Video Streaming for Virtual Reality," *IEEE International Conference on Mobility, Sensing and Networking (MSN)*, pp. 291-298, 2020.
