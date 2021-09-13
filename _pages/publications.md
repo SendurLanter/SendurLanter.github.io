@@ -9,7 +9,7 @@ Journal Papers:
 
 2. Y. Chiang, Y. Chao, **C. Hsu**, C. Chou and H. Wei, "Virtual Network Embedding With Dynamic Speed Switching Orchestration in Edge Network," in *IEEE Access*, vol. 8, pp. 84753-84768, 2020.
 
-3. **C. Hsu**, Y. Chiang, and H. Wei, “Deep Q-Learning based E2E Dynamic Network Slice Scaling and Task Offloading in Multi-Tenant Edge Network,” in preparation, 2021.
+3. **C. Hsu**, Y. Chiang, and H. Wei, “Deep Q-Learning based E2E Dynamic Network Slice Scaling in Multi-Tenant Edge Network,” submitted to *IEEE Transactions on Network and Service Management*, 2021.
 
 Conference Papers:
 ======

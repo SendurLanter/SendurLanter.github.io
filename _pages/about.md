@@ -9,9 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Welcome! //Notice: no update
 ======
-Notice: no update
 
 My name is **Chih-Ho Hsu (許智和)**. Currently, I'm pursuing the B.S. degree in Electrical Engineering at National Taiwan University (NTU) while serving research assistant under the supervision of Prof. [**Hung-Yu Wei**](https://scholar.google.com/citations?user=a7tj-HgAAAAJ&hl=en) in Wireless Mobile Network Lab ([link](http://wmnlab.ee.ntu.edu.tw/lab/index.html)).
 
