@@ -19,7 +19,7 @@ My research interests include related topics in Wireless Communication and Compu
 You may:<br/>
 • [Click here](https://sendurlanter.github.io/portfolio/) to see some animated demo of my past works,<br/>
 • [Click here](https://sendurlanter.github.io/publications/) to see my publications,<br/>
-• or contact me at *lchhsu@ucdavis.edu*.
+• or contact me at *lchhsu@ucdavis.edu*
 
 More about me
 ======
